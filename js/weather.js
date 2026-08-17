@@ -1,0 +1,7 @@
+import { weatherLabel } from './utils.js';
+const CACHE='tb-weather-v1', TTL=10*60*1000;
+const cacheRead=key=>{try{const x=JSON.parse(localStorage.getItem(CACHE)||'{}')[key];return x&&Date.now()-x.ts<TTL?x.data:null}catch{return null}};
+const cacheWrite=(key,data)=>{try{const all=JSON.parse(localStorage.getItem(CACHE)||'{}');all[key]={ts:Date.now(),data};localStorage.setItem(CACHE,JSON.stringify(all))}catch{}}
+export async function getWeather(lat,lon){const key=`${Number(lat).toFixed(2)},${Number(lon).toFixed(2)}`;const cached=cacheRead(key);if(cached)return cached;const url=`https://api.open-meteo.com/v1/forecast?latitude=${encodeURIComponent(lat)}&longitude=${encodeURIComponent(lon)}&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m&timezone=auto`;const res=await fetch(url,{headers:{Accept:'application/json'}});if(!res.ok)throw new Error('weather');const j=await res.json();const c=j.current;const data={temperature:c.temperature_2m,feelsLike:c.apparent_temperature,humidity:c.relative_humidity_2m,wind:c.wind_speed_10m,condition:weatherLabel(c.weather_code),code:c.weather_code,weatherKey:weatherKeyFromCode(c.weather_code),time:c.time,timezone:j.timezone};cacheWrite(key,data);return data}
+export const weatherKeyFromCode=code=>{if([0,1].includes(code))return 'clear';if([2,3,45,48].includes(code))return 'cloudy';return 'rain'};
+export async function getWeatherSafe(lat,lon){try{return await getWeather(lat,lon)}catch{return null}}

@@ -1,0 +1,12 @@
+export const $ = (s, root=document) => root.querySelector(s);
+export const $$ = (s, root=document) => [...root.querySelectorAll(s)];
+export const debounce = (fn, wait=220) => { let t; return (...args) => { clearTimeout(t); t=setTimeout(()=>fn(...args),wait); }; };
+export const escapeHTML = (v='') => String(v).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+export const formatDistance = km => km == null ? '' : km < 1 ? `${Math.round(km*1000)} m` : `${km.toFixed(km<10?1:0)} km`;
+export const haversine = (a,b) => { if(!a||!b) return null; const R=6371, p=Math.PI/180, dLat=(b.lat-a.lat)*p, dLon=(b.lon-a.lon)*p; const x=Math.sin(dLat/2)**2+Math.cos(a.lat*p)*Math.cos(b.lat*p)*Math.sin(dLon/2)**2; return R*2*Math.atan2(Math.sqrt(x),Math.sqrt(1-x)); };
+export const getWeatherKey = w => { const c=(w?.condition||'').toLowerCase(); if(c.includes('rain')||c.includes('drizzle')) return 'rain'; if(c.includes('cloud')||c.includes('overcast')) return 'cloudy'; return 'clear'; };
+export const iconForWeather = k => ({clear:'☀',cloudy:'☁',rain:'☂'})[k] || '☀';
+export const toast = msg => { const el=$('#toast'); if(!el)return; el.textContent=msg; el.classList.add('show'); clearTimeout(window.__toast); window.__toast=setTimeout(()=>el.classList.remove('show'),2600); };
+export const weatherLabel = code => { if(code===0)return 'Clear sky'; if([1,2,3].includes(code))return 'Partly cloudy'; if([45,48].includes(code))return 'Foggy'; if([51,53,55,56,57].includes(code))return 'Drizzle'; if([61,63,65,66,67,80,81,82].includes(code))return 'Rain'; if([71,73,75,77,85,86].includes(code))return 'Snow'; if([95,96,99].includes(code))return 'Thunderstorm'; return 'Variable'; };
+export const saveJSON=(k,v)=>localStorage.setItem(k,JSON.stringify(v)); export const loadJSON=(k,f)=>{try{return JSON.parse(localStorage.getItem(k))??f}catch{return f}};
+export const imageFallback = (img, label='Bangladesh') => { img.onerror=()=>{img.onerror=null;img.src=`https://placehold.co/900x650/e8efe9/173b2a?text=${encodeURIComponent(label)}`}; };

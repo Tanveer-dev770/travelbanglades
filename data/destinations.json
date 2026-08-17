@@ -1,0 +1,2859 @@
+[
+    {
+        "id":  "cox-bazar",
+        "name":  "Cox\u0027s Bazar Sea Beach",
+        "division":  "Chattogram",
+        "district":  "Cox\u0027s Bazar",
+        "upazila":  "Cox\u0027s Bazar Sadar",
+        "category":  "Beach",
+        "description":  "A long Bay of Bengal shoreline for sunrise walks, sea views and relaxed coastal days.",
+        "latitude":  21.4272,
+        "longitude":  92.0058,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Cox%27s_Bazaar_Sunset_Sep2019.jpg/960px-Cox%27s_Bazaar_Sunset_Sep2019.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "sea",
+                     "sunset",
+                     "coast",
+                     "family"
+                 ],
+        "rating":  4.8,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day-2 days",
+        "facilities":  [
+                           "food",
+                           "hotels",
+                           "parking"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  98
+    },
+    {
+        "id":  "saint-martin",
+        "name":  "Saint Martin\u0027s Island",
+        "division":  "Chattogram",
+        "district":  "Cox\u0027s Bazar",
+        "upazila":  "Teknaf",
+        "category":  "Island",
+        "description":  "A small coral island known for clear coastal views, boat journeys and a slower island atmosphere.",
+        "latitude":  20.6275,
+        "longitude":  92.3229,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Saint_Martins_Island_with_boats_in_foreground.jpg/960px-Saint_Martins_Island_with_boats_in_foreground.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "island",
+                     "sea",
+                     "boat",
+                     "coral"
+                 ],
+        "rating":  4.7,
+        "weatherPreference":  [
+                                  "clear"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "food",
+                           "guesthouses"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  94
+    },
+    {
+        "id":  "sajek",
+        "name":  "Sajek Valley",
+        "division":  "Chattogram",
+        "district":  "Rangamati",
+        "upazila":  "Baghaichhari",
+        "category":  "Hill",
+        "description":  "A highland destination with rolling green ridges, cloud-filled mornings and panoramic viewpoints.",
+        "latitude":  23.3820,
+        "longitude":  92.2930,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sajek_Valley_2_%28cropped%29.jpg/960px-Sajek_Valley_2_%28cropped%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "hill",
+                     "clouds",
+                     "viewpoint",
+                     "roadtrip"
+                 ],
+        "rating":  4.8,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "food",
+                           "lodging",
+                           "parking"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  99
+    },
+    {
+        "id":  "bandarban",
+        "name":  "Bandarban Hill Town",
+        "division":  "Chattogram",
+        "district":  "Bandarban",
+        "upazila":  "Bandarban Sadar",
+        "category":  "Hill",
+        "description":  "A gateway to southeastern hill landscapes, viewpoints, trails and riverside escapes.",
+        "latitude":  22.1953,
+        "longitude":  92.2184,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bandarban_City_02.jpg/960px-Bandarban_City_02.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "hill",
+                     "adventure",
+                     "nature",
+                     "viewpoint"
+                 ],
+        "rating":  4.7,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-3 days",
+        "facilities":  [
+                           "food",
+                           "lodging"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  96
+    },
+    {
+        "id":  "nilgiri",
+        "name":  "Nilgiri Hills",
+        "division":  "Chattogram",
+        "district":  "Bandarban",
+        "upazila":  "Thanchi",
+        "category":  "Hill",
+        "description":  "A scenic hill viewpoint with expansive ridgelines and changing cloudscapes.",
+        "latitude":  21.9300,
+        "longitude":  92.2650,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nilgiri%2C_Bandarban%2C_Bangladesh.jpg/960px-Nilgiri%2C_Bandarban%2C_Bangladesh.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "hill",
+                     "clouds",
+                     "viewpoint"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "viewpoint",
+                           "food"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  82
+    },
+    {
+        "id":  "rangamati",
+        "name":  "Rangamati Lake District",
+        "division":  "Chattogram",
+        "district":  "Rangamati",
+        "upazila":  "Rangamati Sadar",
+        "category":  "Lake",
+        "description":  "A lakeside landscape of green hills, waterways and boat-friendly viewpoints.",
+        "latitude":  22.7324,
+        "longitude":  92.2985,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rangamati1.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "lake",
+                     "boat",
+                     "hill",
+                     "nature"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "food",
+                           "lodging",
+                           "boats"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  91
+    },
+    {
+        "id":  "kaptai",
+        "name":  "Kaptai Lake",
+        "division":  "Chattogram",
+        "district":  "Rangamati",
+        "upazila":  "Kaptai",
+        "category":  "Lake",
+        "description":  "A vast man-made lake framed by forested hills, ideal for scenic boat outings.",
+        "latitude":  22.5035,
+        "longitude":  92.2172,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg/960px-Kaptai_Lake_in_Karnafuly%2C_Rangamati.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "lake",
+                     "boat",
+                     "nature"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day-1 day",
+        "facilities":  [
+                           "boats",
+                           "food"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  84
+    },
+    {
+        "id":  "patenga",
+        "name":  "Patenga Sea Beach",
+        "division":  "Chattogram",
+        "district":  "Chattogram",
+        "upazila":  "Patenga",
+        "category":  "Beach",
+        "description":  "A convenient coastal escape near Chattogram with sea views, evening light and city access.",
+        "latitude":  22.2350,
+        "longitude":  91.7935,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sunset_at_Patenga_beach.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "beach",
+                     "sunset",
+                     "city"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-4 hours",
+        "facilities":  [
+                           "food",
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  78
+    },
+    {
+        "id":  "sitakunda",
+        "name":  "Sitakunda Eco Park",
+        "division":  "Chattogram",
+        "district":  "Chattogram",
+        "upazila":  "Sitakunda",
+        "category":  "Eco-tourism",
+        "description":  "Forest trails and elevated viewpoints in a green belt north of Chattogram.",
+        "latitude":  22.6247,
+        "longitude":  91.6753,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sitakunda_and_Nature.jpg/960px-Sitakunda_and_Nature.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "forest",
+                     "trail",
+                     "nature",
+                     "waterfall"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "trails",
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  80
+    },
+    {
+        "id":  "foys-lake",
+        "name":  "Foy\u0027s Lake",
+        "division":  "Chattogram",
+        "district":  "Chattogram",
+        "upazila":  "Pahartali",
+        "category":  "Lake",
+        "description":  "A popular urban lake and leisure destination with greenery and recreational activities.",
+        "latitude":  22.3680,
+        "longitude":  91.7850,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Foy%27s_Lake_2_by_Rahat.jpg/960px-Foy%27s_Lake_2_by_Rahat.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "lake",
+                     "family",
+                     "park",
+                     "city"
+                 ],
+        "rating":  4.2,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "2-5 hours",
+        "facilities":  [
+                           "food",
+                           "parking",
+                           "rides"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  76
+    },
+    {
+        "id":  "lawachara",
+        "name":  "Lawachara National Park",
+        "division":  "Sylhet",
+        "district":  "Moulvibazar",
+        "upazila":  "Kamalganj",
+        "category":  "National Park",
+        "description":  "A protected forest landscape near Sreemangal, valued for biodiversity and nature trails.",
+        "latitude":  24.3272,
+        "longitude":  91.7910,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Life_around_jungle.jpg/960px-Life_around_jungle.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "forest",
+                     "wildlife",
+                     "trail",
+                     "nature"
+                 ],
+        "rating":  4.7,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day-1 day",
+        "facilities":  [
+                           "trails",
+                           "guides"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  92
+    },
+    {
+        "id":  "ratargul",
+        "name":  "Ratargul Swamp Forest",
+        "division":  "Sylhet",
+        "district":  "Sylhet",
+        "upazila":  "Gowainghat",
+        "category":  "Forest",
+        "description":  "A freshwater swamp forest where water levels shape a distinctive seasonal landscape.",
+        "latitude":  25.0010,
+        "longitude":  91.9915,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87_%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A4_%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%97%E0%A7%81%E0%A6%B2_%E0%A6%9C%E0%A6%B2%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%97%E0%A6%BE%E0%A6%9B.jpg/960px-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87_%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A4_%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%97%E0%A7%81%E0%A6%B2_%E0%A6%9C%E0%A6%B2%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%97%E0%A6%BE%E0%A6%9B.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "May-September",
+        "tags":  [
+                     "forest",
+                     "swamp",
+                     "boat",
+                     "photography"
+                 ],
+        "rating":  4.7,
+        "weatherPreference":  [
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "boats"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  90
+    },
+    {
+        "id":  "jaflong",
+        "name":  "Jaflong",
+        "division":  "Sylhet",
+        "district":  "Sylhet",
+        "upazila":  "Gowainghat",
+        "category":  "River",
+        "description":  "A borderland landscape of river stones, green hills and flowing water in northeastern Bangladesh.",
+        "latitude":  25.1620,
+        "longitude":  92.0175,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Zero_Point_at_Zuflong.jpg/960px-Zero_Point_at_Zuflong.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "river",
+                     "hill",
+                     "stone",
+                     "nature"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "food",
+                           "parking"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  89
+    },
+    {
+        "id":  "bichanakandi",
+        "name":  "Bichanakandi",
+        "division":  "Sylhet",
+        "district":  "Sylhet",
+        "upazila":  "Gowainghat",
+        "category":  "River",
+        "description":  "A rocky river landscape surrounded by hills, streams and distinctive stone beds.",
+        "latitude":  25.1720,
+        "longitude":  91.9060,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%E0%A6%AC%E0%A6%BF%E0%A6%9B%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF_%2828864203963%29.jpg/960px-%E0%A6%AC%E0%A6%BF%E0%A6%9B%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF_%2828864203963%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "May-September",
+        "tags":  [
+                     "river",
+                     "hill",
+                     "rocks",
+                     "photography"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "food"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  86
+    },
+    {
+        "id":  "sreemangal",
+        "name":  "Sreemangal Tea Country",
+        "division":  "Sylhet",
+        "district":  "Moulvibazar",
+        "upazila":  "Sreemangal",
+        "category":  "Eco-tourism",
+        "description":  "Rolling tea gardens and a relaxed small-town base for exploring the greater Sylhet region.",
+        "latitude":  24.3065,
+        "longitude":  91.7296,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sreemangal_tea_garden_2017-08-20.jpg/960px-Sreemangal_tea_garden_2017-08-20.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "tea",
+                     "greenery",
+                     "nature",
+                     "photography"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "food",
+                           "lodging"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  88
+    },
+    {
+        "id":  "ahsan-manzil",
+        "name":  "Ahsan Manzil",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Old Dhaka",
+        "category":  "Museum",
+        "description":  "A landmark pink palace and museum beside the Buriganga, offering a compact heritage experience.",
+        "latitude":  23.7089,
+        "longitude":  90.4068,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ahsan_Manzil-Front_View.jpg/960px-Ahsan_Manzil-Front_View.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "museum",
+                     "heritage",
+                     "old dhaka",
+                     "architecture"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "museum",
+                           "parking"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "indoor",
+        "popularity":  93
+    },
+    {
+        "id":  "lalbagh",
+        "name":  "Lalbagh Fort",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Old Dhaka",
+        "category":  "Historical",
+        "description":  "A Mughal-era fort complex with gardens, architectural remains and a calm heritage setting.",
+        "latitude":  23.7195,
+        "longitude":  90.3880,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dhaka_Lalbagh_Fort_5.JPG/960px-Dhaka_Lalbagh_Fort_5.JPG",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "history",
+                     "architecture",
+                     "mughal",
+                     "old dhaka"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "museum",
+                           "parking"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  95
+    },
+    {
+        "id":  "sonargaon",
+        "name":  "Sonargaon Folk Arts \u0026 Heritage",
+        "division":  "Dhaka",
+        "district":  "Narayanganj",
+        "upazila":  "Sonargaon",
+        "category":  "Historical",
+        "description":  "A heritage area associated with Bengal\u0027s historic riverine trade and traditional arts.",
+        "latitude":  23.6505,
+        "longitude":  90.5960,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%E0%A6%97%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A6%BF_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6_3.jpg/960px-%E0%A6%97%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A6%BF_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6_3.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "heritage",
+                     "folk art",
+                     "history",
+                     "architecture"
+                 ],
+        "rating":  4.4,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "museum",
+                           "food"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  85
+    },
+    {
+        "id":  "parliament",
+        "name":  "National Parliament Complex",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Sher-e-Bangla Nagar",
+        "category":  "Urban attraction",
+        "description":  "A striking modernist architectural complex and one of Dhaka\u0027s most recognizable landmarks.",
+        "latitude":  23.7625,
+        "longitude":  90.3795,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/National_Assembly_of_Bangladesh_%2810%29.jpg/960px-National_Assembly_of_Bangladesh_%2810%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "architecture",
+                     "city",
+                     "photography"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "photography",
+                           "city access"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  88
+    },
+    {
+        "id":  "bhawal",
+        "name":  "Bhawal National Park",
+        "division":  "Dhaka",
+        "district":  "Gazipur",
+        "upazila":  "Sreepur",
+        "category":  "National Park",
+        "description":  "A forested day-trip destination north of Dhaka for greenery, open space and relaxed walks.",
+        "latitude":  24.1100,
+        "longitude":  90.4200,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/A_Road_of_Bhawal_Nationa_Park%2C_Gazipur.jpg/960px-A_Road_of_Bhawal_Nationa_Park%2C_Gazipur.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "forest",
+                     "park",
+                     "day trip",
+                     "nature"
+                 ],
+        "rating":  4.2,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "picnic",
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  74
+    },
+    {
+        "id":  "paharpur",
+        "name":  "Paharpur Buddhist Vihara",
+        "division":  "Rajshahi",
+        "district":  "Naogaon",
+        "upazila":  "Badalgachhi",
+        "category":  "Archaeological",
+        "description":  "A major archaeological site representing the rich Buddhist heritage of ancient Bengal.",
+        "latitude":  25.0310,
+        "longitude":  88.9760,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paharpur_Buddhist_Bihar.jpg/960px-Paharpur_Buddhist_Bihar.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "archaeology",
+                     "heritage",
+                     "history",
+                     "buddhist"
+                 ],
+        "rating":  4.7,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-3 hours",
+        "facilities":  [
+                           "museum",
+                           "parking"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  91
+    },
+    {
+        "id":  "mahasthangarh",
+        "name":  "Mahasthangarh",
+        "division":  "Rajshahi",
+        "district":  "Bogura",
+        "upazila":  "Shibganj",
+        "category":  "Archaeological",
+        "description":  "Ancient fortified remains and archaeological landscapes associated with one of Bengal\u0027s earliest urban centers.",
+        "latitude":  24.9560,
+        "longitude":  89.3500,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BD_Mahasthangarh1_without_people.jpg/960px-BD_Mahasthangarh1_without_people.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "archaeology",
+                     "history",
+                     "ruins"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-3 hours",
+        "facilities":  [
+                           "museum",
+                           "parking"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  83
+    },
+    {
+        "id":  "rajshahi-varendra",
+        "name":  "Varendra Research Museum",
+        "division":  "Rajshahi",
+        "district":  "Rajshahi",
+        "upazila":  "Rajshahi Sadar",
+        "category":  "Museum",
+        "description":  "A museum-focused stop for archaeology, sculpture, inscriptions and regional heritage.",
+        "latitude":  24.3700,
+        "longitude":  88.5900,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Varendra_Research_Museum_%2826%29.jpg/960px-Varendra_Research_Museum_%2826%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "museum",
+                     "archaeology",
+                     "heritage",
+                     "indoor"
+                 ],
+        "rating":  4.4,
+        "weatherPreference":  [
+                                  "rain",
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "museum",
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "indoor",
+        "popularity":  75
+    },
+    {
+        "id":  "puthia",
+        "name":  "Puthia Temple Complex",
+        "division":  "Rajshahi",
+        "district":  "Rajshahi",
+        "upazila":  "Puthia",
+        "category":  "Religious heritage",
+        "description":  "A visually rich cluster of historic temples and terracotta architecture in a compact setting.",
+        "latitude":  24.3650,
+        "longitude":  88.8350,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Shiva_temple_at_Puthia%2C_Rajshahi.JPG/960px-Shiva_temple_at_Puthia%2C_Rajshahi.JPG",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "temple",
+                     "terracotta",
+                     "heritage",
+                     "architecture"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-3 hours",
+        "facilities":  [
+                           "parking",
+                           "food"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  81
+    },
+    {
+        "id":  "sundarbans",
+        "name":  "Sundarbans Gateway",
+        "division":  "Khulna",
+        "district":  "Bagerhat",
+        "upazila":  "Mongla",
+        "category":  "Wildlife",
+        "description":  "A gateway to the world\u0027s largest mangrove forest and a landscape shaped by tides, creeks and wildlife.",
+        "latitude":  22.4750,
+        "longitude":  89.6000,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Save_the_sundarbans_20.jpg/960px-Save_the_sundarbans_20.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "wildlife",
+                     "forest",
+                     "mangrove",
+                     "boat"
+                 ],
+        "rating":  4.8,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-4 days",
+        "facilities":  [
+                           "boats",
+                           "guides",
+                           "lodging"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  100
+    },
+    {
+        "id":  "sixty-dome",
+        "name":  "Sixty Dome Mosque",
+        "division":  "Khulna",
+        "district":  "Bagerhat",
+        "upazila":  "Bagerhat Sadar",
+        "category":  "Religious heritage",
+        "description":  "A landmark of historic mosque architecture within the Bagerhat heritage landscape.",
+        "latitude":  22.6736,
+        "longitude":  89.7450,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sixty_Dome_Mosque%2CBagerhat.jpg/960px-Sixty_Dome_Mosque%2CBagerhat.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "mosque",
+                     "heritage",
+                     "architecture",
+                     "history"
+                 ],
+        "rating":  4.7,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "parking",
+                           "museum nearby"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  90
+    },
+    {
+        "id":  "kuakata",
+        "name":  "Kuakata Sea Beach",
+        "division":  "Barishal",
+        "district":  "Patuakhali",
+        "upazila":  "Kalapara",
+        "category":  "Beach",
+        "description":  "A broad coastal destination celebrated for long horizons and open beach views.",
+        "latitude":  21.8160,
+        "longitude":  90.1250,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E0%A6%95%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE_%E0%A6%B8%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%B8%E0%A7%88%E0%A6%95%E0%A6%A4_05.jpg/960px-%E0%A6%95%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE_%E0%A6%B8%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0_%E0%A6%B8%E0%A7%88%E0%A6%95%E0%A6%A4_05.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "beach",
+                     "sunrise",
+                     "sunset",
+                     "coast"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "food",
+                           "lodging",
+                           "parking"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  87
+    },
+    {
+        "id":  "durga-sagar",
+        "name":  "Durga Sagar Dighi",
+        "division":  "Barishal",
+        "district":  "Barishal",
+        "upazila":  "Babuganj",
+        "category":  "Lake",
+        "description":  "A large historic waterbody offering a quiet rural landscape and reflective views.",
+        "latitude":  22.7810,
+        "longitude":  90.3480,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Durga_Sagar.jpg/960px-Durga_Sagar.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "lake",
+                     "heritage",
+                     "nature"
+                 ],
+        "rating":  4.1,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-3 hours",
+        "facilities":  [
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  64
+    },
+    {
+        "id":  "andharmanik",
+        "name":  "Andharmanik River Landscape",
+        "division":  "Barishal",
+        "district":  "Patuakhali",
+        "upazila":  "Kalapara",
+        "category":  "River",
+        "description":  "A quiet coastal-river landscape suited to slow exploration and photography.",
+        "latitude":  21.9150,
+        "longitude":  90.1800,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Patuakhali_Launch_Ghat.jpg/960px-Patuakhali_Launch_Ghat.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "river",
+                     "coast",
+                     "photography"
+                 ],
+        "rating":  4.0,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-4 hours",
+        "facilities":  [
+                           "local access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  55
+    },
+    {
+        "id":  "mymensingh-museum",
+        "name":  "Mymensingh Museum",
+        "division":  "Mymensingh",
+        "district":  "Mymensingh",
+        "upazila":  "Mymensingh Sadar",
+        "category":  "Museum",
+        "description":  "A compact cultural stop for regional history and heritage collections.",
+        "latitude":  24.7560,
+        "longitude":  90.4060,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mymensingh_museum_%2818955693949%29.jpg/960px-Mymensingh_museum_%2818955693949%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "museum",
+                     "heritage",
+                     "indoor",
+                     "city"
+                 ],
+        "rating":  4.1,
+        "weatherPreference":  [
+                                  "rain",
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "museum",
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "indoor",
+        "popularity":  60
+    },
+    {
+        "id":  "shashi-lodge",
+        "name":  "Shashi Lodge",
+        "division":  "Mymensingh",
+        "district":  "Mymensingh",
+        "upazila":  "Mymensingh Sadar",
+        "category":  "Historical",
+        "description":  "A historic urban landmark that adds architecture and local history to a Mymensingh day out.",
+        "latitude":  24.7568,
+        "longitude":  90.3970,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shashi_Lodge_best_view.jpg/960px-Shashi_Lodge_best_view.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "heritage",
+                     "architecture",
+                     "city"
+                 ],
+        "rating":  4.0,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "1 hour",
+        "facilities":  [
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  58
+    },
+    {
+        "id":  "nijhum-dwip",
+        "name":  "Nijhum Dwip",
+        "division":  "Chattogram",
+        "district":  "Noakhali",
+        "upazila":  "Hatiya",
+        "category":  "Island",
+        "description":  "A remote island landscape of mudflats, coastal greenery and open skies.",
+        "latitude":  22.0200,
+        "longitude":  91.0200,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Nijhum_Dwip.jpg/960px-Nijhum_Dwip.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "island",
+                     "coast",
+                     "wildlife",
+                     "nature"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "local lodging"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  68
+    },
+    {
+        "id":  "andhar-man",
+        "name":  "Andarkilla Shahi Jame Mosque",
+        "division":  "Chattogram",
+        "district":  "Chattogram",
+        "upazila":  "Kotwali",
+        "category":  "Religious heritage",
+        "description":  "A historic mosque in central Chattogram, useful as a heritage stop within an urban itinerary.",
+        "latitude":  22.3380,
+        "longitude":  91.8330,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Andarkilla_Mosque_front_view_%28cropped%29.jpg/960px-Andarkilla_Mosque_front_view_%28cropped%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "mosque",
+                     "heritage",
+                     "city",
+                     "architecture"
+                 ],
+        "rating":  4.2,
+        "weatherPreference":  [
+                                  "rain",
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1 hour",
+        "facilities":  [
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "indoor",
+        "popularity":  63
+    },
+    {
+        "id":  "madhabkunda",
+        "name":  "Madhabkunda Waterfall",
+        "division":  "Sylhet",
+        "district":  "Moulvibazar",
+        "upazila":  "Barlekha",
+        "category":  "Waterfall",
+        "description":  "A forested waterfall destination for a nature-focused day trip when conditions are suitable.",
+        "latitude":  24.6350,
+        "longitude":  92.2100,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Madhabkund_Water_Fall.JPG/960px-Madhabkund_Water_Fall.JPG",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "May-September",
+        "tags":  [
+                     "waterfall",
+                     "forest",
+                     "nature",
+                     "trail"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "trails",
+                           "food"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  78
+    },
+    {
+        "id":  "tanguar-haor",
+        "name":  "Tanguar Haor",
+        "division":  "Sylhet",
+        "district":  "Sunamganj",
+        "upazila":  "Tahirpur",
+        "category":  "Eco-tourism",
+        "description":  "A vast wetland landscape where seasonal water, boats and birdlife define the experience.",
+        "latitude":  25.1050,
+        "longitude":  91.1600,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tanguar_Haor_1.jpg/960px-Tanguar_Haor_1.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "June-September",
+        "tags":  [
+                     "wetland",
+                     "boat",
+                     "birds",
+                     "nature"
+                 ],
+        "rating":  4.7,
+        "weatherPreference":  [
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "boats",
+                           "local lodging"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  84
+    },
+    {
+        "id":  "kaptai-park",
+        "name":  "Kaptai National Park",
+        "division":  "Chattogram",
+        "district":  "Rangamati",
+        "upazila":  "Kaptai",
+        "category":  "National Park",
+        "description":  "A forest-and-lake landscape suited to a slower nature itinerary in the hill tracts.",
+        "latitude":  22.5000,
+        "longitude":  92.2200,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kaptai_National_Park_01.jpg/960px-Kaptai_National_Park_01.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "forest",
+                     "lake",
+                     "trail",
+                     "nature"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "trails",
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  69
+    },
+    {
+        "id":  "safari-park",
+        "name":  "Bangabandhu Sheikh Mujib Safari Park",
+        "division":  "Dhaka",
+        "district":  "Gazipur",
+        "upazila":  "Sreepur",
+        "category":  "Wildlife",
+        "description":  "A large wildlife-focused attraction north of Dhaka designed for a full family day out.",
+        "latitude":  24.1950,
+        "longitude":  90.4050,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_view_of_Gazipur_Safari_Park.jpg/960px-Aerial_view_of_Gazipur_Safari_Park.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "wildlife",
+                     "family",
+                     "park",
+                     "day trip"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day-1 day",
+        "facilities":  [
+                           "food",
+                           "parking",
+                           "family"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  79
+    },
+    {
+        "id":  "sonargaon-panamnagar",
+        "name":  "Panam City",
+        "division":  "Dhaka",
+        "district":  "Narayanganj",
+        "upazila":  "Sonargaon",
+        "category":  "Historical",
+        "description":  "A historic street of old merchant houses and architecture within the Sonargaon heritage area.",
+        "latitude":  23.6500,
+        "longitude":  90.6000,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93_%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AE_%E0%A6%A8%E0%A6%97%E0%A6%B0_%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%A8_%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE-2.jpg/960px-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93_%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AE_%E0%A6%A8%E0%A6%97%E0%A6%B0_%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%A8_%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE-2.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "heritage",
+                     "architecture",
+                     "history",
+                     "photography"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "parking",
+                           "food"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  82
+    },
+    {
+        "id":  "panchagarh",
+        "name":  "Tetulia Landscape",
+        "division":  "Rangpur",
+        "district":  "Panchagarh",
+        "upazila":  "Tetulia",
+        "category":  "Nature",
+        "description":  "A northern landscape of open fields, rivers and distant Himalayan views on clear days.",
+        "latitude":  26.4900,
+        "longitude":  88.3500,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sher-e-Bangla_park_panchagarh.jpg/960px-Sher-e-Bangla_park_panchagarh.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "nature",
+                     "north",
+                     "photography",
+                     "landscape"
+                 ],
+        "rating":  4.2,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day-1 day",
+        "facilities":  [
+                           "local food"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  57
+    },
+    {
+        "id":  "nilsagar",
+        "name":  "Nilsagar",
+        "division":  "Rangpur",
+        "district":  "Nilphamari",
+        "upazila":  "Domar",
+        "category":  "Lake",
+        "description":  "A peaceful northern waterbody surrounded by rural scenery and open skies.",
+        "latitude":  25.9700,
+        "longitude":  88.7700,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nilsagar.jpg/960px-Nilsagar.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "lake",
+                     "nature",
+                     "rural",
+                     "photography"
+                 ],
+        "rating":  4.0,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-3 hours",
+        "facilities":  [
+                           "local access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  50
+    },
+    {
+        "id":  "ramna-park",
+        "name":  "Ramna Park",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Ramna",
+        "category":  "Park",
+        "description":  "A central green space for walks, shade and a break from the pace of Dhaka.",
+        "latitude":  23.7380,
+        "longitude":  90.4050,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/e/ee/Romna_Park5.JPG",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "park",
+                     "city",
+                     "walk",
+                     "greenery"
+                 ],
+        "rating":  4.2,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "walkways",
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  71
+    },
+    {
+        "id":  "national-museum",
+        "name":  "Bangladesh National Museum",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Shahbag",
+        "category":  "Museum",
+        "description":  "A broad cultural and historical collection spanning archaeology, art and Bangladesh\u0027s heritage.",
+        "latitude":  23.7380,
+        "longitude":  90.3950,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bangladesh_National_Museum_southern_side_%2801%29.jpg/960px-Bangladesh_National_Museum_southern_side_%2801%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "museum",
+                     "history",
+                     "art",
+                     "indoor"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "rain",
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-3 hours",
+        "facilities":  [
+                           "museum",
+                           "city access"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "indoor",
+        "popularity":  86
+    },
+    {
+        "id":  "botanical-garden",
+        "name":  "National Botanical Garden",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Mirpur",
+        "category":  "Park",
+        "description":  "A large urban garden with varied plant collections and open green space.",
+        "latitude":  23.8100,
+        "longitude":  90.3500,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/National_Botanical_Park%2C_Mirpur%2C_Dhaka.jpg/960px-National_Botanical_Park%2C_Mirpur%2C_Dhaka.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "garden",
+                     "plants",
+                     "park",
+                     "nature"
+                 ],
+        "rating":  4.2,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "2-4 hours",
+        "facilities":  [
+                           "walkways",
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  73
+    },
+    {
+        "id":  "bangladesh-shilpakala",
+        "name":  "Bangladesh Shilpakala Academy",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Ramna",
+        "category":  "Museum",
+        "description":  "A cultural venue for performances, exhibitions and the contemporary arts scene.",
+        "latitude":  23.7420,
+        "longitude":  90.4070,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Art_Market_by_Shilpakala_Academy_2024_87.jpg/960px-Art_Market_by_Shilpakala_Academy_2024_87.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "arts",
+                     "culture",
+                     "indoor",
+                     "city"
+                 ],
+        "rating":  4.1,
+        "weatherPreference":  [
+                                  "rain",
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-3 hours",
+        "facilities":  [
+                           "culture",
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "indoor",
+        "popularity":  59
+    },
+    {
+        "id":  "mohasthangarh-museum",
+        "name":  "Mahasthangarh Museum",
+        "division":  "Rajshahi",
+        "district":  "Bogura",
+        "upazila":  "Shibganj",
+        "category":  "Museum",
+        "description":  "A focused museum stop that adds context to the archaeological landscape of Mahasthangarh.",
+        "latitude":  24.9530,
+        "longitude":  89.3490,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BD_Mahasthangarh1_without_people.jpg/960px-BD_Mahasthangarh1_without_people.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "museum",
+                     "archaeology",
+                     "history",
+                     "indoor"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "rain",
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1 hour",
+        "facilities":  [
+                           "museum"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "indoor",
+        "popularity":  61
+    },
+    {
+        "id":  "inani-beach",
+        "name":  "Inani Beach",
+        "division":  "Chattogram",
+        "district":  "Cox\u0027s Bazar",
+        "upazila":  "Ukhia",
+        "category":  "Beach",
+        "description":  "A long stretch of golden sand famous for its rocky boulders and coral-stone formations near the water.",
+        "latitude":  21.2314,
+        "longitude":  92.0772,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sunset_at_the_Inani_sea_beach_Cox%27s_bazar.jpg/960px-Sunset_at_the_Inani_sea_beach_Cox%27s_bazar.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "beach",
+                     "boulders",
+                     "sea",
+                     "photography"
+                 ],
+        "rating":  4.7,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day-1 day",
+        "facilities":  [
+                           "food",
+                           "parking"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  88
+    },
+    {
+        "id":  "himchari",
+        "name":  "Himchari National Park",
+        "division":  "Chattogram",
+        "district":  "Cox\u0027s Bazar",
+        "upazila":  "Ukhia",
+        "category":  "National Park",
+        "description":  "A coastal national park with forested hills, waterfalls and sweeping viewpoints over the Bay of Bengal.",
+        "latitude":  21.3517,
+        "longitude":  92.0558,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Himchari_National_Park%2C_Cox%27s_Bazar%2C_Bangladesh_25.jpg/960px-Himchari_National_Park%2C_Cox%27s_Bazar%2C_Bangladesh_25.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "forest",
+                     "waterfall",
+                     "viewpoint",
+                     "hike"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "trails",
+                           "viewpoint"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  80
+    },
+    {
+        "id":  "teknaf",
+        "name":  "Teknaf Beach",
+        "division":  "Chattogram",
+        "district":  "Cox\u0027s Bazar",
+        "upazila":  "Teknaf",
+        "category":  "Beach",
+        "description":  "A remote southern beach at the tip of Bangladesh where the Naf river meets the sea.",
+        "latitude":  20.8667,
+        "longitude":  92.3000,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Teknaf_Ghat.JPG/960px-Teknaf_Ghat.JPG",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "beach",
+                     "border",
+                     "sea",
+                     "sunset"
+                 ],
+        "rating":  4.2,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "local food"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  66
+    },
+    {
+        "id":  "dulahazara",
+        "name":  "Dulahazara Safari Park",
+        "division":  "Chattogram",
+        "district":  "Cox\u0027s Bazar",
+        "upazila":  "Chakaria",
+        "category":  "Wildlife",
+        "description":  "A safari park housing exotic and native animals along the Cox\u0027s Bazar highway.",
+        "latitude":  21.5200,
+        "longitude":  92.0500,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/View_of_Dulahazra_Safari_Park%2C_Bangladesh.jpg/960px-View_of_Dulahazra_Safari_Park%2C_Bangladesh.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "wildlife",
+                     "family",
+                     "safari",
+                     "park"
+                 ],
+        "rating":  4.4,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day-1 day",
+        "facilities":  [
+                           "food",
+                           "parking",
+                           "family"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  78
+    },
+    {
+        "id":  "ramu",
+        "name":  "Ramu Buddhist Temples",
+        "division":  "Chattogram",
+        "district":  "Cox\u0027s Bazar",
+        "upazila":  "Ramu",
+        "category":  "Religious heritage",
+        "description":  "A village of historic Buddhist temples and monasteries set among greenery near Cox\u0027s Bazar.",
+        "latitude":  21.4333,
+        "longitude":  92.1000,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg/960px-%28100_Feet_Long_Gautama_Buddha_Structure%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "temple",
+                     "buddhist",
+                     "heritage",
+                     "culture"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "local food"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  62
+    },
+    {
+        "id":  "boga-lake",
+        "name":  "Boga Lake",
+        "division":  "Chattogram",
+        "district":  "Bandarban",
+        "upazila":  "Ruma",
+        "category":  "Lake",
+        "description":  "A serene highland lake ringed by forested hills in the deep Bandarban hills.",
+        "latitude":  21.9440,
+        "longitude":  92.6260,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boga_Lake_%2820180915%29.jpg/960px-Boga_Lake_%2820180915%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "lake",
+                     "hill",
+                     "trek",
+                     "nature"
+                 ],
+        "rating":  4.7,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "local lodging"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  74
+    },
+    {
+        "id":  "keokradong",
+        "name":  "Keokradong Peak",
+        "division":  "Chattogram",
+        "district":  "Bandarban",
+        "upazila":  "Ruma",
+        "category":  "Hill",
+        "description":  "One of Bangladesh\u0027s highest peaks, offering dramatic ridgelines and sunrise treks.",
+        "latitude":  21.9497,
+        "longitude":  92.4353,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Goodmorning_Keokaradang_%286830453822%29.jpg/960px-Goodmorning_Keokaradang_%286830453822%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "peak",
+                     "trek",
+                     "adventure",
+                     "hill"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "guides"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  72
+    },
+    {
+        "id":  "nafakhum",
+        "name":  "Nafakhum Waterfall",
+        "division":  "Chattogram",
+        "district":  "Bandarban",
+        "upazila":  "Thanchi",
+        "category":  "Waterfall",
+        "description":  "A tall waterfall in the Remakri area, among the most dramatic in the hill tracts.",
+        "latitude":  21.7850,
+        "longitude":  92.4190,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nafakhum_Waterfalls.jpg/960px-Nafakhum_Waterfalls.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "June-September",
+        "tags":  [
+                     "waterfall",
+                     "hill",
+                     "trek",
+                     "nature"
+                 ],
+        "rating":  4.8,
+        "weatherPreference":  [
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "Full day",
+        "facilities":  [
+                           "boats",
+                           "guides"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  76
+    },
+    {
+        "id":  "chimbuk",
+        "name":  "Chimbuk Hill",
+        "division":  "Chattogram",
+        "district":  "Bandarban",
+        "upazila":  "Bandarban Sadar",
+        "category":  "Hill",
+        "description":  "A scenic hilltop with layered ridges and viewpoints en route to deeper Bandarban.",
+        "latitude":  22.1000,
+        "longitude":  92.2800,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/View_from_Chimbuk_hill%2C_Bandarban_%282Q7A0721%29.jpg/960px-View_from_Chimbuk_hill%2C_Bandarban_%282Q7A0721%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "hill",
+                     "viewpoint",
+                     "clouds",
+                     "nature"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "viewpoint",
+                           "food"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  70
+    },
+    {
+        "id":  "shuvolong",
+        "name":  "Shuvolong Waterfall",
+        "division":  "Chattogram",
+        "district":  "Rangamati",
+        "upazila":  "Kaptai",
+        "category":  "Waterfall",
+        "description":  "A waterfall reached by boat on the Kaptai lake, a highlight of Rangamati trips.",
+        "latitude":  22.6740,
+        "longitude":  92.2820,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Shuvolong_waterfall.jpg/960px-Shuvolong_waterfall.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "June-September",
+        "tags":  [
+                     "waterfall",
+                     "lake",
+                     "boat",
+                     "nature"
+                 ],
+        "rating":  4.4,
+        "weatherPreference":  [
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "boats"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  68
+    },
+    {
+        "id":  "peda-ting-ting",
+        "name":  "Peda Ting Ting",
+        "division":  "Chattogram",
+        "district":  "Rangamati",
+        "upazila":  "Rangamati Sadar",
+        "category":  "Hill",
+        "description":  "A quiet hilltop resort area with serene views over the lake and surrounding hills.",
+        "latitude":  22.7200,
+        "longitude":  92.3000,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Peda_ting_ting.jpg/960px-Peda_ting_ting.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "hill",
+                     "lake",
+                     "viewpoint",
+                     "relax"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "lodging"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  60
+    },
+    {
+        "id":  "rajban-bihar",
+        "name":  "Rajban Bihar",
+        "division":  "Chattogram",
+        "district":  "Rangamati",
+        "upazila":  "Rajban",
+        "category":  "Religious heritage",
+        "description":  "A Buddhist monastery on a hilltop with sweeping views over the lake.",
+        "latitude":  22.6530,
+        "longitude":  92.1920,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rangamati_Rajban_Bihar_Buddhist_Temple.JPG/960px-Rangamati_Rajban_Bihar_Buddhist_Temple.JPG",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "buddhist",
+                     "temple",
+                     "viewpoint",
+                     "heritage"
+                 ],
+        "rating":  4.4,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "viewpoint"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  58
+    },
+    {
+        "id":  "war-cemetery",
+        "name":  "Chittagong Commonwealth War Cemetery",
+        "division":  "Chattogram",
+        "district":  "Chattogram",
+        "upazila":  "Panchlaish",
+        "category":  "Historical",
+        "description":  "A peaceful memorial garden honouring Commonwealth soldiers of the Second World War.",
+        "latitude":  22.3420,
+        "longitude":  91.8080,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/War_cemetery%2C_Chattogram_04.jpg/960px-War_cemetery%2C_Chattogram_04.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "memorial",
+                     "history",
+                     "garden",
+                     "city"
+                 ],
+        "rating":  4.4,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  56
+    },
+    {
+        "id":  "ethnological-museum",
+        "name":  "Ethnological Museum of Chattogram",
+        "division":  "Chattogram",
+        "district":  "Chattogram",
+        "upazila":  "Agrabad",
+        "category":  "Museum",
+        "description":  "A museum of tribal life and culture showcasing the diversity of Bangladesh\u0027s peoples.",
+        "latitude":  22.3650,
+        "longitude":  91.8240,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Entrance_of_Ethnological_Museum_%2803%29.jpg/960px-Entrance_of_Ethnological_Museum_%2803%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "museum",
+                     "culture",
+                     "tribal",
+                     "indoor"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "rain",
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "museum",
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "indoor",
+        "popularity":  54
+    },
+    {
+        "id":  "bhatiari-lake",
+        "name":  "Bhatiari Lake",
+        "division":  "Chattogram",
+        "district":  "Chattogram",
+        "upazila":  "Sitakunda",
+        "category":  "Lake",
+        "description":  "A scenic lake with boating and birdwatching close to the Chattogram-Dhaka highway.",
+        "latitude":  22.4450,
+        "longitude":  91.7630,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bhatiari_Lake_%2802%29.jpg/960px-Bhatiari_Lake_%2802%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "lake",
+                     "boat",
+                     "bird",
+                     "picnic"
+                 ],
+        "rating":  4.2,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "boats",
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  57
+    },
+    {
+        "id":  "shahjalal-shrine",
+        "name":  "Hazrat Shah Jalal Mazar",
+        "division":  "Sylhet",
+        "district":  "Sylhet",
+        "upazila":  "Sylhet Sadar",
+        "category":  "Religious heritage",
+        "description":  "The shrine of the revered Sufi saint Shah Jalal, a deeply spiritual Sylhet landmark.",
+        "latitude":  24.9000,
+        "longitude":  91.8580,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Shah_Jalal_Mazar_%2803%29.jpg/960px-Shah_Jalal_Mazar_%2803%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "shrine",
+                     "sufi",
+                     "spiritual",
+                     "heritage"
+                 ],
+        "rating":  4.7,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "city access"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "indoor",
+        "popularity":  90
+    },
+    {
+        "id":  "osmani-museum",
+        "name":  "Osmani Museum",
+        "division":  "Sylhet",
+        "district":  "Sylhet",
+        "upazila":  "Sylhet Sadar",
+        "category":  "Museum",
+        "description":  "A museum dedicated to General M.A.G. Osmani, commander of the Liberation War forces.",
+        "latitude":  24.8930,
+        "longitude":  91.8730,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Osmani_Museum_%2828530961001%29.jpg/960px-Osmani_Museum_%2828530961001%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "museum",
+                     "history",
+                     "liberation",
+                     "indoor"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "rain",
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "museum",
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "indoor",
+        "popularity":  55
+    },
+    {
+        "id":  "lalakhal",
+        "name":  "Lalakhal River",
+        "division":  "Sylhet",
+        "district":  "Sylhet",
+        "upazila":  "Companiganj",
+        "category":  "River",
+        "description":  "A turquoise river framed by green hills, popular for boat rides from Sylhet.",
+        "latitude":  25.0610,
+        "longitude":  92.0780,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2.png/960px-%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2.png",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "October-March",
+        "tags":  [
+                     "river",
+                     "boat",
+                     "green",
+                     "nature"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "boats",
+                           "food"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  85
+    },
+    {
+        "id":  "ham-ham",
+        "name":  "Ham Ham Waterfall",
+        "division":  "Sylhet",
+        "district":  "Moulvibazar",
+        "upazila":  "Barlekha",
+        "category":  "Waterfall",
+        "description":  "A charming multi-tiered waterfall in the tea-forest hills of Moulvibazar.",
+        "latitude":  24.6890,
+        "longitude":  92.2410,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HamHam_falls_sylhet.jpg/960px-HamHam_falls_sylhet.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "June-September",
+        "tags":  [
+                     "waterfall",
+                     "forest",
+                     "trail",
+                     "nature"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "trails"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  72
+    },
+    {
+        "id":  "hakaluki",
+        "name":  "Hakaluki Haor",
+        "division":  "Sylhet",
+        "district":  "Sunamganj",
+        "upazila":  "Sunamganj Sadar",
+        "category":  "Eco-tourism",
+        "description":  "One of the largest wetlands in the country, a haven for migratory birds and boat life.",
+        "latitude":  24.7420,
+        "longitude":  91.3430,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hakaluki_Hawor_in_Dry_Season_Sylhet_Bangladesh.JPG/960px-Hakaluki_Hawor_in_Dry_Season_Sylhet_Bangladesh.JPG",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "June-September",
+        "tags":  [
+                     "wetland",
+                     "birds",
+                     "boat",
+                     "nature"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "boats",
+                           "local lodging"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  78
+    },
+    {
+        "id":  "baitul-mukarram",
+        "name":  "Baitul Mukarram National Mosque",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Paltan",
+        "category":  "Religious heritage",
+        "description":  "The national mosque of Bangladesh, with a distinctive modern architecture in central Dhaka.",
+        "latitude":  23.7300,
+        "longitude":  90.3940,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Baitul_Mukarram_National_Mosque_in_2022.09.jpg/960px-Baitul_Mukarram_National_Mosque_in_2022.09.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "mosque",
+                     "architecture",
+                     "heritage",
+                     "city"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "city access"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "indoor",
+        "popularity":  89
+    },
+    {
+        "id":  "sadarghat",
+        "name":  "Sadarghat River Port",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Kotwali",
+        "category":  "Urban attraction",
+        "description":  "The bustling river port on the Buriganga, a lively slice of old Dhaka life.",
+        "latitude":  23.7060,
+        "longitude":  90.4080,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E0%A6%AC%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE_%E0%A7%A9.jpg/960px-%E0%A6%AC%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE_%E0%A7%A9.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "river",
+                     "boat",
+                     "city",
+                     "photography"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  70
+    },
+    {
+        "id":  "dhanmondi-lake",
+        "name":  "Dhanmondi Lake",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Dhanmondi",
+        "category":  "Park",
+        "description":  "A green lakeside park in the heart of Dhaka, popular for evening walks and jogging.",
+        "latitude":  23.7460,
+        "longitude":  90.3810,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dhanmondi_Lake_02.jpg/960px-Dhanmondi_Lake_02.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "lake",
+                     "park",
+                     "walk",
+                     "city"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "walkways",
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  72
+    },
+    {
+        "id":  "suhrawardy-udyan",
+        "name":  "Suhrawardy Udyan",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Shahbag",
+        "category":  "Park",
+        "description":  "The historic park where Bangladesh\u0027s independence was declared, now a green public space.",
+        "latitude":  23.7430,
+        "longitude":  90.3950,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SUHRAWARDI_UDDYAN.jpg/960px-SUHRAWARDI_UDDYAN.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "park",
+                     "history",
+                     "heritage",
+                     "city"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "walkways",
+                           "city access"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  84
+    },
+    {
+        "id":  "dhaka-university",
+        "name":  "University of Dhaka Campus",
+        "division":  "Dhaka",
+        "district":  "Dhaka",
+        "upazila":  "Shahbag",
+        "category":  "Historical",
+        "description":  "Bangladesh\u0027s oldest university, with iconic buildings and a storied role in national history.",
+        "latitude":  23.7330,
+        "longitude":  90.3930,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Curzon_Hall%2C_University_of_Dhaka_2023_spacious_look.jpg/960px-Curzon_Hall%2C_University_of_Dhaka_2023_spacious_look.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "heritage",
+                     "architecture",
+                     "history",
+                     "city"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  77
+    },
+    {
+        "id":  "hajiganj-fort",
+        "name":  "Hajiganj Fort",
+        "division":  "Dhaka",
+        "district":  "Narayanganj",
+        "upazila":  "Narayanganj Sadar",
+        "category":  "Historical",
+        "description":  "A riverside Mughal fort on the Shitalakshya, a quiet heritage stop near Dhaka.",
+        "latitude":  23.6500,
+        "longitude":  90.5000,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hajiganj_Fort.jpg/960px-Hajiganj_Fort.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "fort",
+                     "mughal",
+                     "heritage",
+                     "river"
+                 ],
+        "rating":  4.2,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  52
+    },
+    {
+        "id":  "sonakanda-fort",
+        "name":  "Sonakanda Fort",
+        "division":  "Dhaka",
+        "district":  "Narayanganj",
+        "upazila":  "Narayanganj Sadar",
+        "category":  "Historical",
+        "description":  "A Mughal river fort across the Shitalakshya, part of old waterway defence lines.",
+        "latitude":  23.6700,
+        "longitude":  90.5300,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sonakanda_Fort8.jpg/960px-Sonakanda_Fort8.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "fort",
+                     "mughal",
+                     "heritage",
+                     "river"
+                 ],
+        "rating":  4.1,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1 hour",
+        "facilities":  [
+                           "local access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  45
+    },
+    {
+        "id":  "padma-garden",
+        "name":  "Zainul Abedin Museum",
+        "division":  "Rajshahi",
+        "district":  "Rajshahi",
+        "upazila":  "Rajshahi Sadar",
+        "category":  "Museum",
+        "description":  "A museum in Rajshahi honouring the artist Shilpacharya Zainul Abedin and his works.",
+        "latitude":  24.3700,
+        "longitude":  88.5900,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jainul_Abedin_Museum.jpg/960px-Jainul_Abedin_Museum.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "museum",
+                     "art",
+                     "heritage",
+                     "indoor"
+                 ],
+        "rating":  4.4,
+        "weatherPreference":  [
+                                  "rain",
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "museum",
+                           "city access"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "indoor",
+        "popularity":  61
+    },
+    {
+        "id":  "bagha-mosque",
+        "name":  "Bagha Mosque",
+        "division":  "Rajshahi",
+        "district":  "Rajshahi",
+        "upazila":  "Bagha",
+        "category":  "Religious heritage",
+        "description":  "A late-medieval mosque famous for its terracotta ornamentation and carved panels.",
+        "latitude":  24.1910,
+        "longitude":  88.8730,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bagha_Shahi_Mosque.jpg/960px-Bagha_Shahi_Mosque.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "mosque",
+                     "terracotta",
+                     "heritage",
+                     "architecture"
+                 ],
+        "rating":  4.4,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  59
+    },
+    {
+        "id":  "choto-sona",
+        "name":  "Choto Sona Mosque",
+        "division":  "Rajshahi",
+        "district":  "Chapai Nawabganj",
+        "upazila":  "Shibganj",
+        "category":  "Religious heritage",
+        "description":  "A 15th-century Sultanate mosque with fine stone carving near the historic Gaur region.",
+        "latitude":  24.8430,
+        "longitude":  88.1460,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Choto_Shona_Mosque_Rajshahi.jpg/960px-Choto_Shona_Mosque_Rajshahi.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "mosque",
+                     "architecture",
+                     "heritage",
+                     "history"
+                 ],
+        "rating":  4.6,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "parking"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  71
+    },
+    {
+        "id":  "kantajew",
+        "name":  "Kantajew Temple",
+        "division":  "Rangpur",
+        "district":  "Dinajpur",
+        "upazila":  "Kaharole",
+        "category":  "Religious heritage",
+        "description":  "A stunning late-medieval Hindu temple with exquisite terracotta panels.",
+        "latitude":  25.7900,
+        "longitude":  88.6600,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kantaji_Temple_Dinajpur_Bangladesh_%2812%29.JPG/960px-Kantaji_Temple_Dinajpur_Bangladesh_%2812%29.JPG",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "temple",
+                     "terracotta",
+                     "heritage",
+                     "architecture"
+                 ],
+        "rating":  4.8,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "parking",
+                           "food"
+                       ],
+        "featured":  true,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  83
+    },
+    {
+        "id":  "ramsagar",
+        "name":  "Ramsagar National Park",
+        "division":  "Rangpur",
+        "district":  "Dinajpur",
+        "upazila":  "Dinajpur Sadar",
+        "category":  "National Park",
+        "description":  "A reservoir-based national park with boating, forests and an eco-park setting.",
+        "latitude":  25.5600,
+        "longitude":  88.9200,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ramsagar_National_Park_Dinajpur_3656.jpg/960px-Ramsagar_National_Park_Dinajpur_3656.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "lake",
+                     "forest",
+                     "park",
+                     "family"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "parking",
+                           "boats"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  64
+    },
+    {
+        "id":  "tajhat-palace",
+        "name":  "Tajhat Palace",
+        "division":  "Rangpur",
+        "district":  "Rangpur",
+        "upazila":  "Rangpur Sadar",
+        "category":  "Historical",
+        "description":  "An early 20th-century palace now housing a museum of art and archaeology.",
+        "latitude":  25.7730,
+        "longitude":  89.2330,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tajhat_Palace_Rangpur_city.jpg/960px-Tajhat_Palace_Rangpur_city.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "palace",
+                     "museum",
+                     "heritage",
+                     "architecture"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy",
+                                  "rain"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "museum",
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  53
+    },
+    {
+        "id":  "shilaidaha",
+        "name":  "Shilaidaha Kuthibari",
+        "division":  "Khulna",
+        "district":  "Kushtia",
+        "upazila":  "Kumarkhali",
+        "category":  "Historical",
+        "description":  "The riverside country house of Rabindranath Tagore in the Kushtia countryside.",
+        "latitude":  23.9730,
+        "longitude":  88.9550,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tagore_Kuthibari.jpg/960px-Tagore_Kuthibari.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-February",
+        "tags":  [
+                     "heritage",
+                     "tagore",
+                     "river",
+                     "history"
+                 ],
+        "rating":  4.5,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "Half day",
+        "facilities":  [
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  63
+    },
+    {
+        "id":  "guthia-mosque",
+        "name":  "Guthia Mosque",
+        "division":  "Barishal",
+        "district":  "Barishal",
+        "upazila":  "Barishal Sadar",
+        "category":  "Religious heritage",
+        "description":  "A beautifully landscaped mosque complex and a noted attraction of Barishal city.",
+        "latitude":  22.7010,
+        "longitude":  90.3630,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baitul_Aman_Jaame_Masjid%2C_Barishal-4.jpg/960px-Baitul_Aman_Jaame_Masjid%2C_Barishal-4.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "mosque",
+                     "architecture",
+                     "garden",
+                     "city"
+                 ],
+        "rating":  4.4,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  66
+    },
+    {
+        "id":  "birisiri",
+        "name":  "Birisiri",
+        "division":  "Mymensingh",
+        "district":  "Mymensingh",
+        "upazila":  "Dhobaura",
+        "category":  "Nature",
+        "description":  "A scenic hill-and-lake area in the Garo hills with picnic spots and hiking trails.",
+        "latitude":  25.1630,
+        "longitude":  90.6100,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Birishiri.jpg/960px-Birishiri.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "November-March",
+        "tags":  [
+                     "hill",
+                     "lake",
+                     "trek",
+                     "nature"
+                 ],
+        "rating":  4.4,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 days",
+        "facilities":  [
+                           "local lodging"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  62
+    },
+    {
+        "id":  "muktagacha-rajbari",
+        "name":  "Muktagacha Rajbari",
+        "division":  "Mymensingh",
+        "district":  "Mymensingh",
+        "upazila":  "Muktagachha",
+        "category":  "Historical",
+        "description":  "The grand zamindar palace of Muktagachha with distinctive Indo-Saracenic architecture.",
+        "latitude":  24.7580,
+        "longitude":  90.2250,
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aat_Ani_Zamindar_Bari_%281%29.jpg/960px-Aat_Ani_Zamindar_Bari_%281%29.jpg",
+        "gallery":  [
+
+                    ],
+        "bestTime":  "Year-round",
+        "tags":  [
+                     "palace",
+                     "heritage",
+                     "architecture",
+                     "history"
+                 ],
+        "rating":  4.3,
+        "weatherPreference":  [
+                                  "clear",
+                                  "cloudy"
+                              ],
+        "estimatedVisitDuration":  "1-2 hours",
+        "facilities":  [
+                           "parking"
+                       ],
+        "featured":  false,
+        "indoorOutdoor":  "outdoor",
+        "popularity":  51
+    }
+]
