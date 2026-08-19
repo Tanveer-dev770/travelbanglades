@@ -36,13 +36,16 @@ A modern Bangladesh travel discovery platform powered by weather, maps and locat
 ├── explore.html
 ├── map.html
 ├── about.html
+├── admin.html
 ├── assets/
 ├── css/
 │   ├── style.css
 │   ├── components.css
+│   ├── admin.css
 │   └── responsive.css
 ├── js/
 │   ├── app.js
+│   ├── admin.js
 │   ├── data.js
 │   ├── weather.js
 │   ├── map.js
@@ -125,6 +128,15 @@ Add production screenshots here after deployment, for example:
 - Full map
 - Destination detail
 - Mobile home
+
+## Admin panel
+
+A lightweight client-side admin page (`admin.html`) lets you add, edit, remove, restore or permanently delete destinations, export the current catalog as JSON, and reset back to the shipped seed.
+
+- Changes are stored as a **localStorage overlay** (`tb-admin-overlay`) in the same browser and applied on top of `js/data.js`'s seed catalog on every page load — no backend or build step required.
+- The overlay is an incremental diff (`removed` ids + `upserts` by id), so future seed updates in the repo still apply.
+- Because storage is per-browser, admin edits are not shared across devices unless you also update `js/data.js` or `data/destinations.json` in the repo.
+- `admin.html` is marked `noindex,nofollow` so it does not appear in search results.
 
 ## Data model
 
